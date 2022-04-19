@@ -4,7 +4,8 @@
 
 **Under The Hotel Management System (HMS) Each Group will have below moduels under Hotel Management System Project- Each group comprising of 6 or 5 associates- 1. Admin Module to add Users - This module will be developed by (1) or (2) associates in group 2. Receptionist Module - This module will be developed by 2 associates in group 3. Customer Module - This module will be developed by 1 associates in group 4. Report Module - This module will be developed by 1 associates in group
 **
- ** TECHNOLOGIES USED:
+
+ TECHNOLOGIES USED:
 
 .TECH-1 : JAVA VERSION 1.8
 

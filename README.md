@@ -1,4 +1,4 @@
-                                                               HOTEL MANAGEMENT SYSTEM
+                                                        HOTEL MANAGEMENT SYSTEM
 
   DESCRPTION OF THE PROJECT:
 
